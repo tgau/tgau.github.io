@@ -1,2 +1,2 @@
 # tgau.github.io
-About Thorsten Gau
+About [Thorsten Gau](index.md)
