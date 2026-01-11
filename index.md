@@ -32,3 +32,9 @@ As a Chief Technology Officer (CTO) in IBM Consulting I lead top technical talen
 ## COVID test center logistics
 
 - [Universitätsmedizin Mainz nutzt IBM Cloud Satellite zur Digitalisierung von Prozessen im Klinikumfeld](https://de.newsroom.ibm.com/2021-06-22-Universitatsmedizin-Mainz-nutzt-IBM-Cloud-Satellite-zur-Digitalisierung-von-Prozessen-im-Klinikumfeld) - 22.06.2021
+
+
+# Engagement in commons
+
+- [OpenStreetmap](https://www.openstreetmap.org/)
+- [Wikipedia](https://en.wikipedia.org/wiki/User:Tgau)
